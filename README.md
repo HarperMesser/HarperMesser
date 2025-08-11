@@ -6,7 +6,7 @@
 <!-- Typing intro -->
 <p align="center">
   <a href="https://github.com/HarperMesser">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Harper+Messer+%F0%9F%91%8B;Data+Science+%7C+Engineering+Science+%7C+Economics;Turning+data+into+insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Harper+Messer+%F0%9F%91%8B;Turning+Data+into+Insights" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,9 +21,36 @@
 ---
 
 ## 🛠 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,r,pandas,matplotlib,sklearn,git,github,powerbi,tableau,excel" />
+
+- 🐍 **Python**  
+- 🗄️ **SQL**  
+- 📊 **Power BI**  
+- 📈 **PowerPoint**  
+- 📑 **Excel**
+
+---
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">  
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank">  
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">  
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI Badge" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">  
+    <img src="https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint Badge" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">  
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge" />
+  </a>
 </p>
+
+
+
+
 
 ---
 
