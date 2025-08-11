@@ -42,7 +42,7 @@
 
 ## Current Project
 
-### 🏈 Fantasy Football QB Value Analytics
+### 🏈 2025 Fantasy Football QB Value Analytics
 
 ![QB Table](https://github.com/harpermesser/harpermesser/raw/main/QB%20Table.png)
 
