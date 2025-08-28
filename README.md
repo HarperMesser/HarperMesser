@@ -46,6 +46,8 @@
 
 ![QB Table](https://github.com/harpermesser/harpermesser/raw/main/QB%20Table.png)
 
+[🏈 **QB Fantasy Football Analytics (Link to project)**](https://github.com/harpermesser/2025FantasyFootballProjections)
+
 **About:**  
 - A custom scoring model and analysis project focusing on NFL quarterbacks’ fantasy football performance from 2022 to 2024. This project helps identify players who overperform or underperform relative to expectations and refines projections for the 2025 season leveraging advanced analytics such as EPA, Success %, Pocket Time, Pressure, Efficiency and more.
 
@@ -55,6 +57,25 @@
 
 **Skills used:**  
 - Python, Pandas, SQL, Power BI, Data Visualization, Statistical Analysis  
+
+---
+
+### StockX Data Competition Tablaeu Dashboard
+
+![StockX Data Competition Tablaeu Dashboard](https://github.com/harpermesser/harpermesser/raw/main/Tablaue%20Dashboard.png)
+
+**About:**  
+- This dashboard is based on sample US Sneaker sales data used for the StockX 2019 Data Contest. Using this dashboard, I would highlight each of these visualizations:
+
+- First, the Exclusive Sneakers bar chart reveals that certain models with relatively low sales counts command significantly higher resale margins, signaling opportunities for businesses to strategically acquire and promote high-value, limited-release products.
+
+- Second, the Sneaker Sales Heat Map reveals geographic concentration of sales activity, highlighting top regions (dark green) where businesses could strengthen local partnerships, optimize marketing spend, expand its seller base, and allocate employee resources more effectively.
+
+- Finally, the Average Resale Margin vs. Total Sales dual line chart reveals that while overall sales volume is growing YOY, resale margins fluctuate over time due to promotions and such, revealing the importance for businesses to ensure dual approaches in both exclusive sneakers such as the Nike Air Presto Off White and high selling sneakers with lower resale margins like the Yeezy Boost 350 V2 Butter to maintain market growth. 
+
+
+**Skills used:**  
+- Excel, Tablaeu, Data Analysis, Data Visualization 
 
 ---
 
